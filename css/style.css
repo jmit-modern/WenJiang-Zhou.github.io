@@ -671,7 +671,7 @@ app marcup
   pointer-events: none;
 }
 .art-app .art-app-wrapper .art-app-container .art-info-bar .art-info-bar-frame .art-scroll-frame .scroll-content {
-  padding: 240px 0 50px;
+  padding: 0px 0 50px;
 }
 .art-app .art-app-wrapper .art-app-container .art-content {
   position: relative;
